@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="The Complete MultiModel RAG Application End to End Pipeline Banner" src="https://github.com/user-attachments/assets/13f0fe60-2cdd-4bcb-9486-a19face30497" />          
+<img width="1536" height="1024" alt="The Complete MultiModel RAG Application End to End Pipeline Banner" src="https://github.com/user-attachments/assets/13f0fe60-2cdd-4bcb-9486-a19face30497" />           
 --- 
 
     
