@@ -4,7 +4,7 @@
  
 # 📚 The Complete RAG End-to-End GenAI Pipeline Course
  
-👨‍🏫 By **Abhi Yadav**
+👨‍🏫 By **Abhi Yadav** 
 
 ---
 
